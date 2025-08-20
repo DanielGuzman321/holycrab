@@ -79,6 +79,11 @@ sup {
     vertical-align: baseline
 }
 
+p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+  }
+
 sub {
     bottom: -.25em
 }
@@ -259,9 +264,7 @@ body {
     font-weight: 400;
     line-height: 175%;
     --tw-bg-opacity: 1;
-    background-color: rgb(84 212 255);
     --tw-text-opacity: 1;
-    color: rgb(19 38 74/var(--tw-text-opacity));
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -434,7 +437,7 @@ section:first-child {
     font-weight: 400;
     line-height: 110%;
     --tw-text-opacity: 1;
-    color: rgb(246 116 239/var(--tw-text-opacity));
+    color: rgb(255 238 0);
     text-shadow: 0 4px 0 #000;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #000
@@ -446,7 +449,7 @@ section:first-child {
     font-weight: 400;
     line-height: 110%;
     --tw-text-opacity: 1;
-    color: rgb(246 116 239/var(--tw-text-opacity));
+    color: rgb(255 238 0);
     text-shadow: 0 4px 0 #000;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #000
